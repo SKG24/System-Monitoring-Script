@@ -80,15 +80,10 @@ monitor_system
 
 This calls the monitor_system function to execute the monitoring tasks and print the report.
 ## How to Use
-* Save the Script: Save the above script as
- ```
- system_monitor.zsh.
-```
+* Save the Script: Save the above script as system_monitor.zsh.
 * Make Executable: Run chmod +x system_monitor.zsh to make the script executable.
-* Run the Script: Execute the script by running
- ```
-./system_monitor.zsh.
-  ```
+* Run the Script: Execute the script by running ./system_monitor.zsh.
+
 # Example Output
 ## System Monitoring Report
 * CPU Usage: 32.91%
